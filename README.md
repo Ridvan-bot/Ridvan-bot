@@ -7,4 +7,4 @@ Passionate about coding, automation, and infrastructure. I have a strong backgro
 Currently building efficient, scalable solutions using GitHub Actions, Ansible playbooks, and Docker to transform complex processes into streamlined, automated workflows.
 
 🌐 Website: www.pohlmanprotean.com
-📬 Reach me: dinemail@example.com
+📬 Reach me: robin.pohlman@gmail.com
