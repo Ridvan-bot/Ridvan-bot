@@ -21,7 +21,7 @@ Currently building efficient, scalable solutions using GitHub Actions, Ansible p
 
 <div align=center>
   <img width=320 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ridvan-bot&langs_count=8&layout=compact&theme=dark&border_radius=10&exclude_repo=github-readme-stats&hide_border=true" alt="top langs" />
-  <img width=420  src="https://github-readme-stats-salesp07.vercel.app/api?username=ridvan-boti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+  <img width=420  src="https://github-readme-stats-salesp07.vercel.app/api?username=ridvan-bot&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
   <br/>
   <img width=420 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ridvan-bot&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats"/>
 </div>
