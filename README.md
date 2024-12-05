@@ -1,6 +1,7 @@
 Robin Pohlman | DevOps & Backend Engineer
 Passionate about coding, automation, and infrastructure. I have a strong background in TypeScript, Node.js, with hands-on experience in automating CI/CD pipelines, API development, and cloud deployments.
 
+[![Visits Badge](https://komarev.com/ghpvc/?username=ridvan-bot&label=Profile%20views&color=red&style=for-the-badge)](https://pohlmanprotean.se)
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25" height="25"> &ensp; <b> Things I code with</b><b> Things I code with</b>
 
