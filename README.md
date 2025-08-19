@@ -15,7 +15,7 @@ Passionate about coding, automation, and infrastructure. I have a strong backgro
 
 ##
 
-⚡ Focus: Automation, backend development, API integration, and cloud-native solutions.
+⚡ Focus: Automation, fullstack development, API integration, and cloud-native solutions.
 
 Currently building efficient, scalable solutions using GitHub Actions, Ansible playbooks, and Docker to transform complex processes into streamlined, automated workflows.
 
