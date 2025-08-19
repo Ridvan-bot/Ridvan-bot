@@ -1,4 +1,4 @@
-Robin Pohlman | DevOps & Backend Engineer
+Robin Pohlman | Fullstack Developer
 Passionate about coding, automation, and infrastructure. I have a strong background in TypeScript, Node.js, with hands-on experience in automating CI/CD pipelines, API development, and cloud deployments.
 
 [![Visits Badge](https://komarev.com/ghpvc/?username=ridvan-bot&label=Profile%20views&color=red&style=for-the-badge)](https://pohlmanprotean.se)
